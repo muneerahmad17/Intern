@@ -1,0 +1,66 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #133d56;
+    color: white;
+}
+
+.column1{
+    display:flex;
+    float:left;
+    width:40%;
+    /* justify-content: center; */
+    background-color: #133d56;
+    /* height: 100%; */
+    color: white;
+}
+
+img{
+    margin-top: 5px;
+}
+.cap{
+    margin-top: 2px;
+}
+figcaption{
+    text-align: center;
+    /* font-weight: 600; */
+    color: white;
+}
+.fas{
+    display: flex;
+    justify-content: left;
+    margin-top: 8px;
+    font-size: large;
+}
+hr{
+    width: 39vw;
+}
+
+.lang{
+    align-content: space-between;
+}
+.progress-bar{
+    background-color: black;
+}
+.progress{
+    color: black;
+    margin: 5px;
+}
+.prog_cont{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.hob_cont{
+    display: flex;
+    justify-content: space-around;
+}
+.lang_cont{
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.column2{
+    color: rgb(58, 58, 255);
+    
+}
